@@ -1,4 +1,4 @@
-**NLP Assignment 2 - Team 9**
+**NLP Assignment 2 - Team 9 - German**
 
 In task 1, 5 different tokenizers were trained and the best tokenizer (tokenizer_5) was chosen to train our model.
 
